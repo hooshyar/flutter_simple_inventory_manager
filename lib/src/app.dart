@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_simple_inventory_manager/src/home_screen/home_scree_view.dart';
+import 'package:flutter_simple_inventory_manager/src/home_screen/home_screen_view.dart';
 
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
